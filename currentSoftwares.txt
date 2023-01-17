@@ -1,0 +1,5 @@
+Azure
+Apple
+Window
+Mac
+Aws
